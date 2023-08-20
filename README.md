@@ -23,3 +23,4 @@
 - Database : MySQL
 - ORM
 ## ERD
+![ERD](https://github.com/newideaa/FintechProject/blob/main/ERD_FintechService.png)
